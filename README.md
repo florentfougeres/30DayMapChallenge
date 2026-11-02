@@ -37,4 +37,14 @@ https://30daymapchallenge.com
 | **29-11-2026** | Raster | Faites quelque chose de sympa avec des pixels. |  |
 | **30-11-2026** | Stylo et papier | Il est temps de conclure le défi en fermant votre ordinateur portable pendant un moment et en revenant aux sources. Réalisez une carte analogique avec un stylo et du papier. |  |
 
-##
+## Day 1 - Points
+
+![Day1](./day1/2026.png)
+
+## Day 2 - Lignes
+
+![Day2](./day2/jour2.png)
+
+## Day 3 - Polygones
+
+![Day3](./day3/jour3.png) 
